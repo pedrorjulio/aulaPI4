@@ -1,0 +1,8 @@
+x =#primeiro programa em Python
+#autor: Pedro Julio
+
+print("Digite seu nome: ")
+nome = input()
+print("Ola ", nome, "!")
+
+
